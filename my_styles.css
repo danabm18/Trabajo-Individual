@@ -1,0 +1,19 @@
+/* css styles */
+
+
+/* justificar el texto */ 
+p, ul, ol {
+  text-align: justify; }    
+
+.purple-background {
+  background-color: purple;
+}
+
+.pink-background {
+  background-color: pink;
+}
+
+.importante {
+  color: #00CED1;
+  background-color: white;
+}
